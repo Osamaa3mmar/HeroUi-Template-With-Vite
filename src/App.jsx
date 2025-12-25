@@ -6,7 +6,7 @@ import { setTitle } from "./utils/SEOTools";
 function App() {
 
   useEffect(()=>{
-    setTitle("osama");
+    setTitle("Profile");
   },[])
 
 
